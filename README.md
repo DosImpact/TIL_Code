@@ -4,6 +4,8 @@
 
 ## Notion - IA
 
+[Notion IA](https://www.notion.so/TIL_CODE-2c1d8e9439534357b642a065010b18ba)
+
 ```
 til_nest
 
